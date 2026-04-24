@@ -12,7 +12,7 @@
   "modifiers": {
     "serialize_post_user_badges": [
       "Verified",
-      "EarlyAdopters"
+      "Founding Member"
     ]
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
